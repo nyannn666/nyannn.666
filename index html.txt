@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Project DIVA</title>
+</head>
+<style>
+    <style>
+        .one{
+            height:700px;
+        background-image: url(photo_2023-12-17_18-21-03\ 1.svg);
+        background-repeat:no-repeat;
+        background-size:cover;
+        background-attachment: fixed;
+        
+        }
+        .two{
+            height:700px;
+            background-image: url(photo_2023-11-23_20-41-38.jpg);
+        }
+    
+        <h1>
+            Project DIVA
+            </h1>
+        <p>
+            Project DIVA-это ритм-игра, созданная Sega и Crypton
+Future Media для приставки PlayStation Portable. В главной роли
+выступает виртуальный идолХацунэ Мику. До России серия игр
+дошла лишь к началу 2010 года.</p>
+<p>Геймплей игры довольно прост. На экране появляются серые кнопки одной из четырёх форм: Круг,
+Крест, Квадрат, Треугольник. Позже, из угла экрана появляются те же кнопки, только закрашенные.
+Смысл игры — вовремя нажать на одну из четырёх кнопок, когда цветная форма проходит через серую,
+чем точнее, тем лучше. После прохождения песни оценивается насколько точны были нажатия. 
+Присуждается один из четырёх рангов: Cheap (очень плохо: песня не пройдена), Standard (нормально:
+песня пройдена, возможно откроется какой-либо предмет), Great (отлично: песня пройдена, появляется
+ видео режим, открывается какой-либо предмет и более высокая сложность для песни, возможно 
+открытие нового костюма), Perfect (превосходно: открывается всё выше перечисленное). Во второй части игры также был добавлен ранг Excellent.
+</p>
+<p>В игре есть возможность менять костюмы персонажа (всего 50 костюмов: 35 на Мику и 15 на остальных
+ вокалоидов), также можно создавать свои уровни (Режим редактирования позволяет выбрать любой
+ MP3 файл, хранящийся в папке «MUSIC» на PSP и с помощью ленты событий создать своё PV и сложность).
+ </p>
+ <p>Дополнительные возможности
+В игре есть возможность менять костюмы персонажа (всего 50 костюмов: 35 на Мику и 15 на
+ остальных вокалоидов), также можно создавать свои уровни (Режим редактирования позволяет 
+выбрать любой MP3 файл, хранящийся в папке «MUSIC» на PSP и с помощью ленты событий создать
+ своё PV и сложность).
+ </p>
+ <p>
+    Персонажи
+Мику Хацунэ
+Рин и Лен Кагаминэ
+Лука Мэгуринэ
+Кайто
+Мэйко
+Йоване Хаку
+Акита Неру
+Сакине Мэйко
+Касане Тето
+</p>
+<p>
+    Список песен из 初音ミク-Project
+ 
+ World Is Mine
+ The RebelryoLove Is Warry That 
+ One Second Slow 
+ MotionryoMeltryFar 
+ AwayуStrobe
+ NightsyaeStar
+ Storyk Last Night, Good Night
+ Packaged
+ Sweet Drops After the Rain
+ OSTER projectMiracle Paint
+ Bad Mood Waltz 
+ MarginalDreaming Leaf -Dreaming Words
+ Songs of Wastelands, Forests, and Magic
+ White Dove
+ moon
+ Beware of Miku Miku Bacteria♪
+ Songs of Life
+ The secret garden
+ cocoa girls
+ Velvet Arabes
+ Updating 
+ Your Love List?
+ Rain of Cherry Blossoms
+ VOCALOID in Love
+ levan Polkka
+ Your Diva
+ Electric Angel
+ The Disappearance of Hatsune Miku
+ Kogane no Seiya Sousetsu ni Kuchite
+ Miku Miku ni Shite Ageru♪
+ Rin Rin Rintte Shitekurin♪ 
+ Cool-[Len] Love Song 
+ Double Lariat
+ Thousand Year Solo 
+ Oblivion in My Heart 
+ Soar Saihate
+ SETSUNA 
+ Sunset Nostalgic remix Love it 
+ Radio Edit Can You Hear It… 
+ Shooting Star Prologue  
+ Tell Me!! The Magical Lyrics starise
+ </p>
+ <p>Технические данные
+Платформы:
+PlayStation Portable
+аркадные автоматы
+PlayStation
+ 3PlayStation
+ VitaPlayStation 4
+Режим игры:
+однопользовательский
+НосительUMDО
+</p>
+</style>
